@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please email daniel.wooddell@gmail.com with as many details as you can provide. Thank you.
+To report a vulnerability, please email daniel.wooddell@gmail.com with as many details as you can provide. Thank you, Daniel Wooddell.
